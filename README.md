@@ -1,4 +1,4 @@
-# Homework 6 (Docker)
+# Homework 6 
 
 ---
 ![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homework__yadov_anton__7/actions/workflows/main-workflow.yml/badge.svg)
