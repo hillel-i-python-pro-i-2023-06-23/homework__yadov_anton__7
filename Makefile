@@ -20,7 +20,7 @@ init-configs:
 # Just run
 d-run:
 	@COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 \
-		dohcker compose up --build
+		docker compose up --build
 
 .PHONY: d-stop
 # Stop services
